@@ -1,10 +1,10 @@
-#Controle de Séries
+# Controle de Séries
 
 ### Aplicação desenvolvida como parte do aprendizado na utilização do Framework PHP Laravel.
 
-![](https://github.com/PatrickDupin/controle-de-series/public/images/controle-series.png)
+![](public/images/controle-series.png)
 
-O intuito da aplicação foi criar um sistema que possibilitasse ao usuário realizar o cadastro de Séries e suas temporadas e episódios, além de controlar quais episódios já foram assistidos.
+O intuito da aplicação foi criar um sistema que possibilitasse ao usuário realizar o cadastro de Séries e suas Temporadas e Episódios, além de controlar quais episódios já foram assistidos.
 
 Todos os registros são armazenados em Banco de Dados com todas as devidas relações entre as tabelas e a inserção, alteração e exclusão de registros somente é permitida para usuários autenticados.
 
